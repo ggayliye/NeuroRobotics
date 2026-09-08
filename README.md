@@ -22,7 +22,7 @@ impliment battery charging in a small scale.
 
 # EGG in Action
 
-[![EGG in Action](https://github.com/ggayliye/NeuroRobotics/blob/main/.img/2.jpg)jpg)](https://youtu.be/rSXBLHSbEkQ?si=vPGESMk1az1dnegt)
+[![EGG in Action](https://github.com/ggayliye/NeuroRobotics/blob/main/.img/2.jpg)jpg)](https://youtu.be/rSXBLHSbEkQ)
 
 ![Electronic Grip Gauge (EGG) Device](https://github.com/ggayliye/NeuroRobotics/blob/main/.img/1.png)
 
