@@ -20,6 +20,10 @@ impliment battery charging in a small scale.
 - 3) Do research on "2-metal pads charging method" that we'll be using. How to source, costs, etc.? Think about structural testing options.
 - 4) Read and analize database flow.
 
+# EGG in Action
+
+[![EGG in Action](https://github.com/ggayliye/NeuroRobotics/blob/main/.img/2.jpg)jpg)](https://youtu.be/rSXBLHSbEkQ?si=vPGESMk1az1dnegt)
+
 ![Electronic Grip Gauge (EGG) Device](https://github.com/ggayliye/NeuroRobotics/blob/main/.img/1.png)
 
 
