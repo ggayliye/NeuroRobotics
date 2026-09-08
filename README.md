@@ -24,6 +24,7 @@ impliment battery charging in a small scale.
 
 [![EGG in Action](https://github.com/ggayliye/NeuroRobotics/blob/main/.img/2.jpg)](https://youtu.be/rSXBLHSbEkQ)
 
+# The Electronic Grip Gauge (EGG) and the App Features
 ![Electronic Grip Gauge (EGG) Device](https://github.com/ggayliye/NeuroRobotics/blob/main/.img/1.png)
 
 
