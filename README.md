@@ -30,7 +30,15 @@ impliment battery charging in a small scale.
 [![Nine-Hole Peg Test (9HPT)](https://github.com/ggayliye/NeuroRobotics/blob/main/.img/4.jpg)](https://youtu.be/kkyfI5OvfJo)
 
 # Purdue Pegboard Test (PPT)
-[![Nine-Hole Peg Test (9HPT)](https://github.com/ggayliye/NeuroRobotics/blob/main/.img/5.jpg)](https://youtu.be/cvQbo0CzScI)
+[![Purdue Pegboard Test (PPT)](https://github.com/ggayliye/NeuroRobotics/blob/main/.img/5.jpg)](https://youtu.be/cvQbo0CzScI)
+
+# Two-Point Discrimination Test (2PDT)
+[![Two-Point Discrimination Test (2PDT)](https://github.com/ggayliye/NeuroRobotics/blob/main/.img/6.jpg)](https://youtu.be/QplcT2MjuEc)
+
+# Semmes-Weinstein Monofilament Test (SWMT)
+[![Semmes-Weinstein Monofilament Test (SWMT)](https://github.com/ggayliye/NeuroRobotics/blob/main/.img/7.jpg)](https://youtu.be/xNzWF6XS8FI)
+
+
 
 
 
