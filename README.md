@@ -23,14 +23,14 @@ impliment battery charging in a small scale.
 # EGG in Action
 [![EGG in Action](https://github.com/ggayliye/NeuroRobotics/blob/main/.img/2.jpg)](https://youtu.be/rSXBLHSbEkQ)
 
-
 # Box and Blocks Test (BBT)
 [![Box and Blocks Test (BBT)](https://github.com/ggayliye/NeuroRobotics/blob/main/.img/3.jpg)](https://youtu.be/8nsn91JFYgE)
 
 # Nine-Hole Peg Test (9HPT)
 [![Nine-Hole Peg Test (9HPT)](https://github.com/ggayliye/NeuroRobotics/blob/main/.img/4.jpg)](https://youtu.be/kkyfI5OvfJo)
 
-
+# Purdue Pegboard Test (PPT)
+[![Nine-Hole Peg Test (9HPT)](https://github.com/ggayliye/NeuroRobotics/blob/main/.img/5.jpg)](https://youtu.be/cvQbo0CzScI)
 
 
 
