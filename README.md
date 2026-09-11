@@ -17,10 +17,10 @@ impliment battery charging in a small scale.
 ## Action Items on Sep 3rd, 2026:
 - 1) Read and be familiar with the EGG at webpage https://www.egg.rehab/ including published and in-review academic papers (3 of them) .
 - 2) Be Familar with qi protocol charging (we won't be using it).
-- 3) Do research on "2-metal pads charging method" that we'll be using. How to source, costs, etc.? Think about structural testing options.
+- 3) Do research on "2-metal pads charging method"/ "Magnetic Pogo Pin Charger/Connector" that we'll be using. How to source, costs, etc.? Think about structural testing options.
 - 4) Read and analize database flow.
 
-
+All action items are completed by Sep 11th.
 
 
 
@@ -51,14 +51,7 @@ impliment battery charging in a small scale.
 [![Benjamini-Hochberg Procedure](https://github.com/ggayliye/NeuroRobotics/blob/main/.img/9.jpg)](https://youtu.be/4iIARptxpQM)
 
 # Wilcoxon Test
-[![Wilcoxon Test](https://github.com/ggayliye/NeuroRobotics/blob/main/.img/10.jpg)](https://youtu.be/2AqoK8itEFQ)
-
-
-
-
-
-
-
+[![Wilcoxon Test](https://github.com/ggayliye/NeuroRobotics/blob/main/.img/10.jpg)](https://youtu.be/2AqoK8itEFQ)<br> <br>
 
 
 # The Electronic Grip Gauge (EGG) and the App Features
