@@ -22,10 +22,10 @@ impliment battery charging in a small scale.
 
 All action items are completed by Sep 11th. 
 
+<br>
+<br>
+<br>
 
-<br>
-<br>
-<br>
 # Appendix
 
 ## EGG in Action
