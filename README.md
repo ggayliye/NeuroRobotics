@@ -8,13 +8,22 @@ Copyright: NeuroRobotics, Kyle G. Gayliyev .
 
 # Overview 
 * This repo documents my research projects at the ,NeuroRobotics Lab, The University of Utah.
+#
+#
+# Action Items on Sep 11th, 2026:
+- 1) Make EGG phone app compatable with Apple cellphones (iOS).
+- 2) Assemble an EGG device with a fellow student researcher. Check reliability and calibration of circular force sensors:<br>
+-> Create an SOP (in google docs) for the process, so that the setup can be re-done later seamlessly.<br>
+-> Install Arduino IDE<br>
+-> Install all required libraries<br>
+- 3)Analyze battery information of the EGG. Research if there is any suitable and better battery option for the EGG with those requirements espesially the fitting in dimention.
 
 # Sep 3rd, 2026 Notes :
 - After discussing the overall research project with the mentor, I'll be contributing projects involved 
 in the EGG(Electronic Grip Gauge) device. The current focus is to shrink the EGG device. Mainly focusing on how to
 impliment battery charging in a small scale.
 
-## Action Items on Sep 3rd, 2026:
+# Action Items on Sep 3rd, 2026:
 - 1) Read and be familiar with the EGG at webpage https://www.egg.rehab/ including published and in-review academic papers (3 of them) .
 - 2) Be Familar with qi protocol charging (we won't be using it).
 - 3) Do research on "2-metal pads charging method"/ "Magnetic Pogo Pin Charger/Connector" that we'll be using. How to source, costs, etc.? Think about structural testing options.
