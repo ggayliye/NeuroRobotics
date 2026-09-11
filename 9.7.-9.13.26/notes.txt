@@ -1,0 +1,132 @@
+
+
+TASK 6:qi charging
+->Watched a video about it.
+-> universal open standard for wireless inductive charging created by the Wireless Power Consortium.
+	- Electromagnetic Induction: A transmitter coil in the charging pad creates a magnetic field, and a receiver coil in your device converts that field back into an electric current to charge the battery
+	- Digital Handshake: The charger sends low-power pings to detect a device, validates the object, and negotiates power levels before transferring full energy
+	- Safety and Control: The system continuously monitors voltage, current, and battery temperature to prevent overheating and overcharging
+
+-> Performance Disadvantages
+	- Slower Speeds: Wired charging (like USB-C Power Delivery) easily reaches 30W to 100W+, while standard Qi charging is usually capped at 5W to 15W.
+	- High Heat Generation: Energy lost during wireless transmission converts into heat, which can degrade your device's battery health over time if it gets too hot.
+	- Poor Energy Efficiency: Wireless charging wastes roughly 20% to 30% more power than a cable because energy is lost as heat and electromagnetic dissipation.
+-> Usability Disadvantages
+	- Precise Alignment Required: If your phone is placed even slightly off-center on a standard Qi pad, it will charge incredibly slowly or stop charging entirely.
+	- Restricted Phone Use: You cannot easily pick up, hold, or use your phone to text or play games while it is flat on a charging pad.
+	- Thick Case Interference: Heavy-duty, rugged, or metallic phone cases block the magnetic fields and prevent the charger from working.
+
+
+=================================================
+TASK 5: 2-metal pads charging /Magnetic Pogo Pin Charger/connector
+Magnetic pogo pin chargers use spring-loaded pins and magnets to provide fast, snap-on connections that protect device ports from wear.
+
+-> Key Advantages
+• Easy Alignment: Magnets snap into place automatically without manual adjustment or looking.
+• Port Protection: Reduces physical wear from plugging and unplugging traditional cables.
+• Safe Breakaway: The magnetic connection detaches easily if the cord gets pulled or tripped over, preventing the device from falling.
+• Water and Dust Resistance: Flat contact surfaces and sealed designs make it easier to achieve high waterproof ratings like IP67 or IP68.
+• High Durability: Spring mechanisms and gold plating handle thousands of connection cycles and resist corrosion
+
+-> "uses direct physical contact between two metal contact points on a device and two matching metal pins or pads on a charging dock to transfer electricity"
+-> this method requires physical touch between the charger's metal terminals and the device's conductive pads
+-> When the two metal surfaces align, they close an electrical circuit allowing direct current (DC) to flow straight into the device's battery
+-> common usage: 
+• smartwatches, rechargeable flashlights, electric toothbrushes, and certain laptop docking stations or game controller docks.
+• Watched a video about wireless charging 
+-> Magnetic Pogo Pin Charger/Connector:
+• Wholesale option:
+• https://www.alibaba.com/pla/4-0MM-Magnetic-Connector-PogoPin-Male_1601495133115.html?mark=google_shopping&biz=pla&searchText=connectors&product_id=1601495133115&pcy=us_en&src=sem_ggl&field=UG&from=sem_ggl&cmpgn=23943467922&adgrp=200057618520&fditm=&tgt=pla-2486796178070&locintrst=&locphyscl=9029726&mtchtyp=&ntwrk=g&device=c&dvcmdl=&creative=813217375325&plcmnt=&plcmntcat=&aceid=&position=&gad_source=1&gad_campaignid=23943467922&gbraid=0AAAAAD8m77phA-1VL0bSu53-cdJyLuQZF&gclid=Cj0KCQjwzY7VBhDwARIsAFtPvBTCMoubkMf6tzy0yh-tp0kVerdyXOWTDoLBl_024IiUbjbTCjZ5Ho0aAgnOEALw_wcB
+• https://www.amazon.com/s?k=magnetic+pogo+pin&channelId=500&clpRedir=Y&plpRedirect=mhFallback
+• ~ $2.5/each + shipping : https://www.aliexpress.us/item/3256807108390883.html?gatewayAdapt=glo2usa4itemAdapt
+• ~ $3/each + shipping : https://www.aliexpress.us/item/3256808852181469.html?gatewayAdapt=glo2usa4itemAdapt
+• ~ $3/each + shipping https://www.lazada.com.my/products/pdp-i14976655403.html
+• https://www.walmart.com/ip/Magnet-Spring-Loaded-Pogo-Pin-Connector-Single-Spring-Pin-2-Poles-Charge-Power-Male-Female-Probe-Solder-Wire-and-PCB-5-pair-connector-Silver/17380509797?wmlspartner=wlpa&selectedSellerId=102895532&selectedOfferId=37832DB33F663E248A34E21E6D42A7E6&conditionGroupCode=1&veh=seo_fpl&cn=google
+
+
+
+
+=================================================
+TASK 4: SQLite file
+
+Relevant tabs:
+-> usage_dates
+-> recordings: total_recording_time; notes.
+-> individual_stats: 
+	- Current_mode: Non-Fragile, fragile and fragile-feedback modes
+	- Break_status: successful/(n/a)
+	- Transfer_label: single transfer, incomplete-transfer
+	- Complete_label
+	- Break threshold:8
+	- Transfer_duration
+	- Max_grip_force
+	- avarage_grip_force
+	- Max and avg_grip force (2 separate columns)
+	- Duration_load
+	- Grip: Lift ave and max_grip force (2 separate columns)
+	- Lift: Lift ave and max_grip force (2 separate columns)
+	- Duration_transfer
+	- Transfer: grip force: max and ave  (2 separate columns)
+	- Load force: transfer max and ave  (2 separate columns)
+	- Duration release
+	- Grip force max and ave release  (2 separate columns)
+	- Load force max and ave release
+	- Grip left delay
+
+-> summary_stats:
+	- Num_transfers
+	- Num_successes
+	- Num broken
+	- Percent_broken
+	- The rest of column names similar to the top
+
+-> raw_data
+-> individual_grasp_data:
+	- Grip force
+	- Battery_percentage
+	- Force
+	- Grip_force
+	- And some others
+
+
+=================================================
+TASK 3: Article 3: DISENTANGLING SENSORY AND MOTOR DEFICITS OF FINE HAND FUNCTION USING AN ELECTRONIC GRIP GAUGE (EGG) TO SIMULATE TRANSFERRING FRAGILE OBJECTS
+
+-> States that tactile feedback is important on prosthetic control
+->half of patients abandon their prostheses saying lack of sensory feedback and control
+-> lack of tactile sensory feedback is a primary reason for poor control
+-> IN the experiment, introducing auditory feedback on top of the break threshold, it improved  prosthetic performance. Grasping force and transfer time reduced.
+-> no change observed on intact hand when auditory feedback is introduced on the device
+-> there was still big difference between prosthetic and healthy hand performance which means prosthetic requires lot of improvement
+-> grip force was higher for prosthetic comparing intact hand
+-> transfer time of the prosthetic was greater than the intact hand
+
+
+=================================================
+TASK 2: Article2 reading: Automated Quantifiable
+
+Article#2: Automated Quantifiable Assessments of Sensorimotor Function Using an Instrumented Fragile Object.
+
+-> EGG helps to assess grip force.
+-> experiment conducted on 3 patients to test how EGG does on grip force.
+
+===================================
+TASK 1: Article reading and egg.rehab :
+
+1ST ARTICLE : (1.The_Electronic_Grip_Gauge_EGG_Automated_Assessment_of_Sensorimotor_Hand_Function_Using_an_Instrumented_Fragile_Object)
+
+	- Abstract: this article is about the EGG device that resemble Box-and -Blocks that is traditionally used to rehabilitate patients of stroke, upper limp
+ dis-functionality related to injuries. The device has three modes: non-fragile, fragle, and feedback-feedback. It gives a quantifiable data.
+
+	- BODY:  
+-> Upper Limp hemiparesis effects life quality negatively.
+-> Neurorehabilitation is a good choice for recovery for injured patients. Will help other potential interventions.
+-> To rehabilitate hemiparetic hand function on fragile objects is important.
+-> EGG has these features of the fragile objects. Can measure : grip force, vertical load force, acceleration, angular velocity, 
+magnetic fields, device orientation, and relative object position in real time.
++ It has novel position tracking system that automates analysis of transfers. 
++ Result show immediately in the app/ Bluetooth connection.
+
+	- DEVICE DEV.:
+-> the EGG addresses the need for a reliable, convenient, a standardized tool to assess grip control
+-> Previous approaches that has limits: analog (real) fragile objects, mechanical collapsable objects, instrumented lab devices that are rigid( sensorized handles and cubes)
