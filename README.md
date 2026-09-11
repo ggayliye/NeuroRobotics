@@ -20,41 +20,43 @@ impliment battery charging in a small scale.
 - 3) Do research on "2-metal pads charging method"/ "Magnetic Pogo Pin Charger/Connector" that we'll be using. How to source, costs, etc.? Think about structural testing options.
 - 4) Read and analize database flow.
 
-All action items are completed by Sep 11th.
+All action items are completed by Sep 11th. 
 
 
+<br>
+<br>
+<br>
+# Appendix
 
-
-
-# EGG in Action
+## EGG in Action
 [![EGG in Action](https://github.com/ggayliye/NeuroRobotics/blob/main/.img/2.jpg)](https://youtu.be/rSXBLHSbEkQ)
 
-# Box and Blocks Test (BBT)
+## Box and Blocks Test (BBT)
 [![Box and Blocks Test (BBT)](https://github.com/ggayliye/NeuroRobotics/blob/main/.img/3.jpg)](https://youtu.be/8nsn91JFYgE)
 
-# Nine-Hole Peg Test (9HPT)
+## Nine-Hole Peg Test (9HPT)
 [![Nine-Hole Peg Test (9HPT)](https://github.com/ggayliye/NeuroRobotics/blob/main/.img/4.jpg)](https://youtu.be/kkyfI5OvfJo)
 
-# Purdue Pegboard Test (PPT)
+## Purdue Pegboard Test (PPT)
 [![Purdue Pegboard Test (PPT)](https://github.com/ggayliye/NeuroRobotics/blob/main/.img/5.jpg)](https://youtu.be/cvQbo0CzScI)
 
-# Two-Point Discrimination Test (2PDT)
+## Two-Point Discrimination Test (2PDT)
 [![Two-Point Discrimination Test (2PDT)](https://github.com/ggayliye/NeuroRobotics/blob/main/.img/6.jpg)](https://youtu.be/QplcT2MjuEc)
 
-# Semmes-Weinstein Monofilament Test (SWMT)
+## Semmes-Weinstein Monofilament Test (SWMT)
 [![Semmes-Weinstein Monofilament Test (SWMT)](https://github.com/ggayliye/NeuroRobotics/blob/main/.img/7.jpg)](https://youtu.be/xNzWF6XS8FI)
 
-# Spasticity
+## Spasticity
 [![Spasticity](https://github.com/ggayliye/NeuroRobotics/blob/main/.img/8.jpg)](https://youtu.be/IDpDonPh4Bk)
 
-# Benjamini-Hochberg (BH)Procedure
+## Benjamini-Hochberg (BH)Procedure
 [![Benjamini-Hochberg Procedure](https://github.com/ggayliye/NeuroRobotics/blob/main/.img/9.jpg)](https://youtu.be/4iIARptxpQM)
 
-# Wilcoxon Test
-[![Wilcoxon Test](https://github.com/ggayliye/NeuroRobotics/blob/main/.img/10.jpg)](https://youtu.be/2AqoK8itEFQ)<br> <br>
+## Wilcoxon Test
+[![Wilcoxon Test](https://github.com/ggayliye/NeuroRobotics/blob/main/.img/10.jpg)](https://youtu.be/2AqoK8itEFQ)<br> <br><br><br><br>
 
 
-# The Electronic Grip Gauge (EGG) and the App Features
+## The Electronic Grip Gauge (EGG) and the App Features
 ![Electronic Grip Gauge (EGG) Device](https://github.com/ggayliye/NeuroRobotics/blob/main/.img/1.png)
 
 
